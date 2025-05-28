@@ -4,9 +4,9 @@ This repository was made for lesson 1 of the course, and will hold assignments f
 
 # About me
   ## Interests
-    * In search of new interests
-    * Used to do basic photo and video editing
+  * In search of new interests
+  * Used to do basic photo and video editing
   ## Websites I recommend
-    * [_**Deepl**_ - most accurate online translator (fewer languages)](deepl.com)
-    * [_**Coolors**_ - great website for picking color pallets when designing anything](coolors.com)
-    * [_**Project Gutenbg**_ - A website with free to download E-books (mostly classical literature, as many of it is in public domain.)](https://www.gutenberg.org/)
+  * [_**Deepl**_ - most accurate online translator (fewer languages)](deepl.com)
+  * [_**Coolors**_ - great website for picking color pallets when designing anything](coolors.com)
+  * [_**Project Gutenbg**_ - A website with free to download E-books (mostly classical literature, as many of it is in public domain.)](https://www.gutenberg.org/)
